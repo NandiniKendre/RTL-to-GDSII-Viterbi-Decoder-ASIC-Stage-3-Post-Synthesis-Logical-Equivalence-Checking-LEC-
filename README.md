@@ -1,0 +1,2 @@
+# RTL-to-GDSII-Viterbi-Decoder-ASIC-Stage-3-Post-Synthesis-Logical-Equivalence-Checking-LEC-
+This repository documents the Post-Synthesis Logical Equivalence Checking (LEC) stage of the ASIC implementation flow for a K=7 Convolutional Encoder and Viterbi Decoder. The objective of this stage is to formally verify that the synthesized gate-level netlist is functionally equivalent to the original RTL design.
